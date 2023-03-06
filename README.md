@@ -5,7 +5,7 @@ This is a Flask web application that provides a chat room functionality. The app
 ## Installation
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the application using `python app.py`.
+3. Run the application using `python main.py`.
 
 ## Usage
 1. Enter your name on the home page.
