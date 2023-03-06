@@ -1,4 +1,4 @@
-Chat Room Web Application
+## Chat Room Web Application
 
 This is a Flask web application that provides a chat room functionality. The application allows users to either join an existing chat room by entering a room code, or create a new chat room. The chat room is implemented using Flask-SocketIO, which provides real-time, bidirectional communication between the server and the client. The application keeps track of the messages sent by the users in a given chat room and displays them in the chat room.
 
